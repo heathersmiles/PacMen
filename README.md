@@ -1,8 +1,8 @@
 # PacMen
-##Project Description
+## Project Description
 Create a web page that produces a PacMan on the click of a button. This activity required the use of skills in array methods and manipulating the DOM.
 
-##How to use it?
+## How to use it?
 1. Download the following 3 files from the master branch of this repository into a directory on your local machine:
 
 PacMen.js
@@ -13,10 +13,10 @@ styles.css
 
 3. Click the button to add randomized moving PacMen to the screen and enjoy!
 
-##Project Roadmap
+## Project Roadmap
 In the future, randomize the color of each newly created PacMan.
 
-##License
+## License
 MIT License
 
 Copyright (c) 2020 John Williams
