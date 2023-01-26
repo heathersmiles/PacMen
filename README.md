@@ -4,9 +4,8 @@ Create a web page that produces a PacMan on the click of a button. This activity
 
 ## How to use it?
 1. Download the following 3 files from the master branch of this repository into a directory on your local machine:
-
-<span style="margin-left:2em">PacMen.js<br /></span>
-<span style="margin-left:2em">index.html<br /></span>
+  PacMen.js<br />
+  index.html<br />
 
 2. Open index.html in your browser of choice.
 
