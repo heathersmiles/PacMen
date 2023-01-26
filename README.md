@@ -3,7 +3,7 @@
 Create a web page that produces a PacMan on the click of a button. This activity required the use of skills in array methods and manipulating the DOM.
 
 ## How to use it?
-1. Download the following 3 files from the master branch of this repository into a directory on your local machine:<br />
+1. Download the following 2 files from the master branch of this repository into a directory on your local machine:<br />
   PacMen.js<br />
   index.html<br />
 
